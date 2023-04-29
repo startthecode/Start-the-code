@@ -6,6 +6,7 @@ export const OrderStatus = () => {
     let {state} = useLocation();
   return (
     <>
+    
     {state.orderStatus ? <OrderSucess /> : <OrderFailed />}
 
     </>
