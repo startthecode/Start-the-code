@@ -12,7 +12,6 @@
 /build
 
 # misc
-importantTopics.text
 .env
 .DS_Store
 .env.local
